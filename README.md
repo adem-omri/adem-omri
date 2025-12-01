@@ -1,5 +1,6 @@
 <h1>Hi, I'm Adem! <br/>
 <a href="#">Programmer</a>, 
+<a href="#">Video Editor</a>, 
 <a href="#">Athlete</a>, 
 <a href="#">Software Developer</a>
 </h1>
