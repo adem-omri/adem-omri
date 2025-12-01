@@ -1,26 +1,48 @@
-<h1>Hi, I'm Adem! <br/>
-<a href="#">Programmer</a>, 
-<a href="#">Video Editor</a>, 
-<a href="#">Athlete</a>, 
-<a href="#">Software Developer</a>
-</h1>
+<h1 align="center">Hi, I'm Adem 👋</h1>
+<h3 align="center">Video Editor</h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-<!-- Keep this section empty for now as requested -->
-<!-- You can add your Firebase or Flutter projects here later -->
+## 🎬 About Me  
+I edit videos with a clean, simple, and efficient style.  
+I focus on making clips smooth, clear, and visually appealing.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-<!-- Update these links with your own socials if you want -->
-[<img align="left" alt="Adem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
-[<img align="left" alt="Adem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
-[<img align="left" alt="Adem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
+## 🛠️ Video Editing Skills  
+- Cutting & trimming  
+- Syncing clips to music  
+- Basic transitions  
+- Basic color correction  
+- Removing wind/noise  
+- Adding text & subtitles  
+- Slow motion / speed ramp basics  
+- Basic motion effects  
+- Stabilizing shaky footage  
+
+---
+
+## 🎥 Software I Use  
+- **CapCut** 
+- **Davinci Resolve** 
+
+---
+
+## 📌 Types of Videos I Can Edit  
+- Simple edits  
+- Short clips    
+- Fitness clips  
+- Product videos   
+- TikTok/Reels style edits (simple)
+
+---
+
+## 🤳 Connect with me
+
+[<img align="left" alt="Adem Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img align="left" alt="Adem LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img align="left" alt="Adem Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
 
 <br/><br/>
 
-<!-- Optional: You can write a short about me below or add emojis -->
-
-<!--
-**your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+---
