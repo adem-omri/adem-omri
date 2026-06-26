@@ -40,7 +40,6 @@ I also do video editing on the side with a clean, cinematic style.
 |--------|-------------|
 | `hr_leave_management` | Full leave request system with multi-level approval, 6 leave types, balance tracking & PDF reports |
 | `custom_invoice_template` | Professional QWeb invoice replacing Odoo default — dynamic branding, QR code, bank details |
-| `veganet_entretien_adem_omri` | Maintenance management module built for VegaNet |
 | `pv_bundle` | Project reception PV generation with task carry-over and validation workflows |
 
 ---
