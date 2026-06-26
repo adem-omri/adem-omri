@@ -50,10 +50,8 @@ I also do video editing on the side with a clean, cinematic style.
 - Syncing clips to music
 - Basic transitions & motion effects
 - Color correction
-- Noise removal
 - Text & subtitles
 - Slow motion / speed ramp
-- Stabilizing shaky footage
 - TikTok/Reels style edits
 
 **Software:** CapCut · DaVinci Resolve
