@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 Software Engineering student passionate about ERP development and business process automation.
-I build custom Odoo 16 modules — from workflows and dashboards to PDF reports and integrations.
+I build custom Odoo modules — from workflows and dashboards to PDF reports and integrations.
 I also do video editing on the side with a clean, cinematic style.
 
 ---
@@ -27,7 +27,7 @@ I also do video editing on the side with a clean, cinematic style.
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, XML, SQL, HTML/CSS
-- **ERP:** Odoo 16
+- **ERP:** Odoo 16/19
 - **Reporting:** QWeb, Power BI
 - **Database:** PostgreSQL
 - **Tools:** Git, GitHub, VS Code
