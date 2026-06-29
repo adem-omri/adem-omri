@@ -13,7 +13,7 @@ I also do video editing on the side with a clean, cinematic style.
 
 ## ⚙️ ERP & Development Skills
 
-- Custom Odoo 16 module development (models, views, wizards)
+- Custom Odoo module development (models, views, wizards)
 - Business workflow automation (approval flows, state machines)
 - QWeb PDF report design
 - Odoo security rules & access control
